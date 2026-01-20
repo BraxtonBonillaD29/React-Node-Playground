@@ -1,6 +1,6 @@
 # System Design Preparation: Frontend & Backend
 
-Este repositorio está dedicado a documentar mi aprendizaje, ejercicios y recursos para la preparación de entrevistas de System Design, cubriendo tanto el espectro de Frontend como de Backend.
+Este repositorio está dedicado a documentar mi aprendizaje, ejercicios y recursos para el estudio y dominio de System Design, cubriendo tanto el espectro de Frontend como de Backend.
 
 ## 📁 Estructura del Repositorio
 

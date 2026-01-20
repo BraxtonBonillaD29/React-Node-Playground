@@ -1,5 +1,5 @@
 # ⚛️ React Mastery Cheat Sheet
-*Guía rápida para Entrevistas Frontend & System Design*
+*Guía rápida para Desarrollo Frontend & System Design*
 
 ## 1. Gestión de Estado (State Management)
 
@@ -62,7 +62,7 @@ useEffect(() => {
 
 ---
 
-## 5. Preguntas Trampa de Entrevista
+## 5. Escenarios y Problemas Comunes
 
 **Q: ¿Por qué mi componente hijo se renderiza aunque use `React.memo`?**
 A: Porque probablemente le estás pasando una función (`onClick`) o un objeto (`style`) que se recrea en cada render del padre. **Solución:** Usa `useCallback` o `useMemo` en el padre.
